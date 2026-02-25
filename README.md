@@ -1,47 +1,47 @@
-<!-- PREMIUM GRADIENT HEADER -->
+<!-- PREMIUM GRADIENT HEADER (slightly compact) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Navin%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20•%20Mobile%20Architect%20•%20Swift%20Specialist&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Navin%20Rai&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20iOS%20Engineer%20•%20Mobile%20Architect%20•%20Swift%20Specialist&descAlignY=58&descAlign=50"/>
 </p>
 
 ---
 
-# 👋 Hi, I'm Navin Rai
+## 👋 Hi, I'm Navin Rai
 
-### Senior iOS Engineer • Scalable Mobile Architect • Swift Ecosystem Specialist  
-Building production-grade, high-performance iOS applications with system design thinking.
+Senior iOS Engineer • Scalable Mobile Architect • Swift Ecosystem Specialist  
+Building production-grade, high-performance iOS applications with strong system design principles.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 📱 4+ Years building scalable iOS apps  
+- 📱 4+ Years building scalable iOS applications  
 - 🧠 Strong in Architecture & System Design  
-- ⚙️ Performance-focused & production-ready mindset  
-- 🔄 CI/CD automation & clean engineering practices  
-- 🏗 Offline-first & sync-based data architecture expert  
+- ⚙️ Performance-focused engineering mindset  
+- 🔄 CI/CD automation & clean coding standards  
+- 🏗 Offline-first & sync-driven architecture experience  
 
 ---
 
-## 🏗 Architecture Expertise
+### 🏗 Architecture
 
 MVVM • VIPER • MVI • Clean Architecture  
 Repository Pattern • Dependency Injection • Modular Design  
 
 ---
 
-## 👨‍💻 Apple Ecosystem & iOS
+### 👨‍💻 Apple Ecosystem
 
 Swift • SwiftUI • UIKit • Combine • async/await  
 CoreData • SwiftData • URLSession • Alamofire  
-CloudKit • Push Notifications • Background Tasks  
+CloudKit • Background Tasks • Push Notifications  
 GCD • Multithreading • Memory Optimization  
 
 ---
 
-## 🛠 DevOps & Tooling
+### 🛠 DevOps & Tools
 
 Xcode • Git • GitHub • GitHub Actions  
-CI/CD Pipelines • Fastlane  
+CI/CD • Fastlane  
 Firebase • Crashlytics • Analytics  
 SPM • CocoaPods  
 TestFlight • App Store Connect  
@@ -49,16 +49,16 @@ Postman • Charles Proxy
 
 ---
 
-## 🧪 Engineering Excellence
+### 🧪 Engineering Excellence
 
 Unit Testing • XCTest • TDD  
 Performance Optimization  
-Advanced ARC Understanding  
+Advanced ARC & Memory Management  
 Code Review & Production Standards  
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navin-Rai-Developer&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -74,15 +74,7 @@ Code Review & Production Standards
 
 ---
 
-# 👁 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navin-Rai-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-# 📌 Featured Projects
+## 📌 Featured Projects
 
 - 🔹 [LeafLens](https://github.com/Navin-Rai-Developer/LeafLens)  
 - 🔹 [NoteAppCoreData](https://github.com/Navin-Rai-Developer/NoteAppCoreData)  
@@ -90,12 +82,30 @@ Code Review & Production Standards
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/navinkumarrai">
   <img src="https://img.shields.io/badge/LinkedIn-Navin%20Rai-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<a href="https://medium.com/@NavinRai17">
+  <img src="https://img.shields.io/badge/Medium-Navin%20Rai-black?style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="https://www.instagram.com/navinrai27/">
+  <img src="https://img.shields.io/badge/Instagram-@navinrai27-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:rai.navinrai10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linktr.ee/navinrai">
+  <img src="https://img.shields.io/badge/Linktree-Navin%20Rai-43E660?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
+
 </p>
 
 ---
